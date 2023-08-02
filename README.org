@@ -1,0 +1,2 @@
+* HEADR
+A exercise to replicate the head program in rust with minimal flags
